@@ -18,15 +18,23 @@ Reconciliation often involves comparing large datasets from different sources (e
 Traditional methods rely on rule-based algorithms or manual checks, which can be time-consuming and error-prone. 
 Similarly, anomaly detection for fraud, errors, or deviations requires sophisticated pattern recognition and adaptive learning.
 
-## 🎥 click for Demo Vedio 
+## 🎥 Click the links below for Demo Vedio and Screenshots
 🔗 📹 [Video Demo](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo) 
 
-🖼️ Click the link below for Screenshots:
-
-![Screenshot 1](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo/Demo_Screenshots.docx)
+   ![Screenshot 1](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo/Demo_Screenshots.docx)
 
 ## 💡 Inspiration
-a genuine inspiration from our hackathon 2025 initiative, to produce some good solutions uisng latest gen AI.
+The inspiration for a project like this often stems from the pressing need to enhance efficiency and accuracy in fields that rely heavily on data processing, pattern recognition, and anomaly detection. These problems can be especially prominent in industries like finance, healthcare, logistics, and customer support, where manual reconciliation and error detection are time-consuming and prone to mistakes.
+
+Specifically:
+
+Automation and Time-Saving: Many organizations struggle with the repetitive nature of tasks like reconciliation. The idea of creating a smarter, automated solution powered by Generative AI addresses this pain point.
+
+Improved Decision-Making: The ability to categorize and detect anomalies quickly allows businesses to focus on addressing issues and making informed decisions.
+
+Leverage AI's Potential: Generative AI brings exciting possibilities for generating insights, making predictions, and learning from patterns that traditional systems might overlook.
+
+Real-World Impact: The prospect of solving real-world problems and making processes seamless can be incredibly motivating for developers, researchers, and decision-makers.
 
 ## ⚙️ What It Does
 -Automate the reconciliation process.
