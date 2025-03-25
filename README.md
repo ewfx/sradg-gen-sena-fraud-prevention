@@ -31,8 +31,11 @@ The inspiration for a project like this often stems from the pressing need to en
 Specifically:
 
 Automation and Time-Saving: Many organizations struggle with the repetitive nature of tasks like reconciliation. The idea of creating a smarter, automated solution powered by Generative AI addresses this pain point.
+
 Improved Decision-Making: The ability to categorize and detect anomalies quickly allows businesses to focus on addressing issues and making informed decisions.
+
 Leverage AI's Potential: Generative AI brings exciting possibilities for generating insights, making predictions, and learning from patterns that traditional systems might overlook.
+
 Real-World Impact: The prospect of solving real-world problems and making processes seamless can be incredibly motivating for developers, researchers, and decision-makers.
 
 ## ⚙️ What It Does
