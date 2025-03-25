@@ -18,10 +18,10 @@ Reconciliation often involves comparing large datasets from different sources (e
 Traditional methods rely on rule-based algorithms or manual checks, which can be time-consuming and error-prone. 
 Similarly, anomaly detection for fraud, errors, or deviations requires sophisticated pattern recognition and adaptive learning.
 
-## 🎥 Demo
+## 🎥 click for Demo Vedio 
 🔗 📹 [Video Demo](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo) 
 
-🖼️ Screenshots:
+🖼️ Click the link below for Screenshots:
 
 ![Screenshot 1](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo/Demo_Screenshots.docx)
 
