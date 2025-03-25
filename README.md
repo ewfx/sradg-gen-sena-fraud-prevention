@@ -17,12 +17,12 @@
 Reconciliation often involves comparing large datasets from different sources (e.g., financial transactions, inventory records) to identify mismatches or discrepancies. 
 Traditional methods rely on rule-based algorithms or manual checks, which can be time-consuming and error-prone. 
 Similarly, anomaly detection for fraud, errors, or deviations requires sophisticated pattern recognition and adaptive learning.
-
+---
 ## 🎥 Click the links below for Demo Vedio and Screenshots
-🔗 📹 [Video Demo](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo) 
+🔗📹 [Video Demo](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo) 
 
-   ![Screenshot 1](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo/Demo_Screenshots.docx)
-
+ ![Screenshot 1](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo/Demo_Screenshots.docx)
+---
 ## 💡 Inspiration
 The inspiration for a project like this often stems from the pressing need to enhance efficiency and accuracy in fields that rely heavily on data processing, pattern recognition, and anomaly detection. These problems can be especially prominent in industries like finance, healthcare, logistics, and customer support, where manual reconciliation and error detection are time-consuming and prone to mistakes.
 
@@ -35,7 +35,7 @@ Improved Decision-Making: The ability to categorize and detect anomalies quickly
 Leverage AI's Potential: Generative AI brings exciting possibilities for generating insights, making predictions, and learning from patterns that traditional systems might overlook.
 
 Real-World Impact: The prospect of solving real-world problems and making processes seamless can be incredibly motivating for developers, researchers, and decision-makers.
-
+---
 ## ⚙️ What It Does
 -Automate the reconciliation process.
 
@@ -44,7 +44,7 @@ Real-World Impact: The prospect of solving real-world problems and making proces
 -Reduce manual intervention.
 
 -Provide actionable insights for faster resolution.
-
+---
 ## 🛠️ How We Built It
 Generative AI-Powered Framework 
 A. Data Preprocessing
@@ -64,10 +64,10 @@ Confidence Scores: Provide probabilities for matching records to help prioritize
 D. Generative Insights
 Use Gen AI to generate summaries or explanations for flagged anomalies (e.g., "This transaction appears anomalous due to an outlier in payment frequency").
 Generate suggestions for resolving discrepancies (e.g., "Consider verifying transaction XYZ from source A").
-
+---
 ## 🚧 Challenges We Faced
 How to present the agent using visualisations.
-
+---
 # 🏃 How to Run
 1. Clone the repository  
    
@@ -84,7 +84,7 @@ How to present the agent using visualisations.
 # 🏗️ Tech Stack
 - 🔹 Frontend: Streamlit, seaborn and matplotlib for plotting and visualisation.
 - 🔹 Models: Pandas and numpy for data preprocessing, kmeans for clusting and isolation forest for anomolies detection.
-
+---
 # 👥 Team
 - Phani Kanth Daliparthi
 - Tarun Kumar Kollipara
