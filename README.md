@@ -25,9 +25,6 @@ Click the links below for demo vedio and documnet with screenshots
 
    ![Screenshot 1](https://github.com/ewfx/sradg-gen-sena-fraud-prevention/tree/7fbecf11dbc51709b447a4af9e59bf62dabf1805/artifacts/demo/Demo_Screenshots.docx)
 
-## 💡 Inspiration
-The inspiration for a project like this often stems from the pressing need to enhance efficiency and accuracy in fields that rely heavily on data processing, pattern recognition, and anomaly detection. These problems can be especially prominent in industries like finance, healthcare, logistics, and customer support, where manual reconciliation and error detection are time-consuming and prone to mistakes.
-
 ## ⚙️ What It Does
 -Automate the reconciliation process.
 
@@ -37,28 +34,8 @@ The inspiration for a project like this often stems from the pressing need to en
 
 -Provide actionable insights for faster resolution.
 
-## 🛠️ How We Built It
-Generative AI-Powered Framework 
-A. Data Preprocessing
-Data Ingestion: We have used existing historical sample csv files for testing.
-Data Cleaning & Normalization: Deploy AI models to handle missing values, standardize formats, and merge data from disparate systems.
-
-B. Anomaly Detection
-AI Models: Leverage pre-trained transformer models (Open AI - ChatGPT) to learn patterns in historical data.
-Multi-Channel Inputs: Incorporate features such as timestamps, geolocation, and user behavior to enrich the detection process.
-Real-Time Analysis: Use streaming services to flag anomalies as they occur.
-
-C. Smart Reconciliation
-Data Comparison: Use NLP-powered models to interpret and match textual or semi-structured data (e.g., invoice descriptions, payment memos).
-Pattern Recognition: Train the AI to detect recurring reconciliation patterns, such as partial matches or compensating errors.
-Confidence Scores: Provide probabilities for matching records to help prioritize manual reviews.
-
-D. Generative Insights
-Use Gen AI to generate summaries or explanations for flagged anomalies (e.g., "This transaction appears anomalous due to an outlier in payment frequency").
-Generate suggestions for resolving discrepancies (e.g., "Consider verifying transaction XYZ from source A").
-
 ## 🚧 Challenges We Faced
-How to present the agent using visualisations.
+How to present the agent using visualisations, and providing option to drop or add coloumns for reconsiliation.
 
 # 🏃 How to Run
 1. Clone the repository  
