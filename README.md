@@ -76,18 +76,22 @@ How to present the agent using visualisations.
 2. Install dependencies  
    pip install streamlit pandas numpy scikit-learn matplotlib seaborn
    
-4. Run the project  
-   We need do the tunneling to run the application using streamlit.
-   wget -q -O - ipv4.icanhazip.com   --> to get the password to access the application IP Address
-   streamlit run app.py & npx localtunnel --port 8501
-   you can use the google colab to run the above steps to get our application.
+4. Run the project
+   - **streamlit run SmarterReconciliation_GenAI.py & npx localtunnel --port 8501**
+   - A URL will be generated to access the Streamlit application.
+   - To access the application we will need a tunnel password and to generate the same, use this command:
+     **wget -q -O - ipv4.icanhazip.com** 
+   -You can use the google colab and use the above steps to run our application, if you do not have Python installed.
 5. We have placed the sample data sets in artifacts folder for testing.
    
 
 # 🏗️ Tech Stack
-- 🔹 Frontend: Streamlit, seaborn and matplotlib for plotting and visualisation.
-- 🔹 Models: Pandas and numpy for data preprocessing, kmeans for clusting and isolation forest for anomolies detection.
----
+- 🔹 Frontend: Streamlit,
+- 🔹 Plotting and Visualisation: seaborn and matplotlib for plotting and visualisation.
+- 🔹 Data Processing: Pandas and NumPy
+- 🔹 LLMs: K-Means for clustering and Isolation forest for anomolies detection.
+- 🔹 Machine Learning: Scikit-learn
+  
 # 👥 Team
 - Phani Kanth Daliparthi
 - Tarun Kumar Kollipara
