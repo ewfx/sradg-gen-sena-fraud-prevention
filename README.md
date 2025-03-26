@@ -80,8 +80,9 @@ How to present the agent using visualisations.
    We need do the tunneling to run the application using streamlit.
    wget -q -O - ipv4.icanhazip.com   --> to get the password to access the application IP Address
    streamlit run app.py & npx localtunnel --port 8501
-   you can use the google colab to run the above steps to get our application. https://colab.research.google.com/
-   ```
+   you can use the google colab to run the above steps to get our application.
+5. We have placed the sample data sets in artifacts folder for testing.
+   
 
 # 🏗️ Tech Stack
 - 🔹 Frontend: Streamlit, seaborn and matplotlib for plotting and visualisation.
