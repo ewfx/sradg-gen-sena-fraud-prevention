@@ -86,11 +86,11 @@ How to present the agent using visualisations.
    
 
 # 🏗️ Tech Stack
-- 🔹 Frontend: Streamlit,
-- 🔹 Plotting and Visualisation: seaborn and matplotlib for plotting and visualisation.
-- 🔹 Data Processing: Pandas and NumPy
-- 🔹 LLMs: K-Means for clustering and Isolation forest for anomolies detection.
-- 🔹 Machine Learning: Scikit-learn
+- 🔹 **Frontend**: Streamlit
+- 🔹 **Plotting and Visualisation**: seaborn and matplotlib for plotting and visualisation.
+- 🔹 **Data Processing**: Pandas and NumPy
+- 🔹 **LLMs**: K-Means for clustering and Isolation forest for anomolies detection.
+- 🔹 **Machine Learning**: Scikit-learn
   
 # 👥 Team
 - Phani Kanth Daliparthi
